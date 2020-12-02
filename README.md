@@ -1,3 +1,3 @@
 # weatherBot
 
-[link](https://baodnguyen.github.io/weatherBot/)
+[link](https://baodnguyen.github.io/weatherBot/index)
